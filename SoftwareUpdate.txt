@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add missing Explorer docs reference pages (#7455)
